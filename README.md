@@ -76,3 +76,4 @@ python main.py
 ## 备注
 - 如果中文显示为方块，请安装 SimHei 或 Microsoft YaHei 字体。
 - “显示决策边界”仅对支持 `predict` 的算法生效。
+
